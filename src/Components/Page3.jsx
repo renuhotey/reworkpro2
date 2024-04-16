@@ -49,7 +49,7 @@ function HeroImage() {
 
 export default function MyComponent() {
   return (
-    <section className="pt-5 pb-11 pl-11 max-md:pl-5">
+    <section className="pt-5 pb-11 pl-11 max-md:pl-5" upper>
       <div className="flex gap-5 max-md:flex-col max-md:gap-0">
         <div className="flex flex-col w-[44%] max-md:ml-0 max-md:w-full">
           <div className="flex flex-col self-stretch my-auto font-medium leading-8 max-md:mt-10 max-md:max-w-full">
